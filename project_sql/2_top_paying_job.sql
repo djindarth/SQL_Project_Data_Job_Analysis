@@ -35,7 +35,6 @@ ORDER BY
 
 
 /*
-
 Top Skills in Demand:
 
 SQL (8 mentions) and Python (7 mentions) are the most frequently required skills.
@@ -522,5 +521,4 @@ Excel (3), Power BI (2), and PowerPoint (1) suggest that reporting and dashboard
     "skills": "r"
   }
 ]
-
 */
